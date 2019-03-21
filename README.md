@@ -1,6 +1,6 @@
 # PJlink Management
 
-##This MERN web app has 3 tiers:##
+##This MERN web app has 3 tiers:
 
 1. Database management
 CRUD operations using Mongo.
